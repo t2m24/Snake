@@ -1,17 +1,17 @@
-# Snake (Hádik)
+# Snake Game
 
-Semestrálna práca z predmetu Informatika 1 (2024).
+Semester project for the Informatics 1 course (2024).
 
-Jednoduchá hra Hádik vytvorená v Jave v prostredí BlueJ na precvičenie základov objektovo-orientovaného programovania (OOP).
+A simple implementation of the classic Snake game written in Java within the BlueJ environment, created to practice basic Object-Oriented Programming (OOP) concepts.
 
-## Použité technológie
+## Tech Stack
 * Java
-* Vývojové prostredie BlueJ
+* BlueJ IDE
 
-## Ako spustiť
-1. Otvorte prostredie BlueJ.
-2. Cez Project -> Open Project... otvorte zložku s týmto projektom.
-3. Kliknite pravým tlačidlom na spúšťaciu triedu a zvoľte spustenie.
+## How to Run
+1. Open the BlueJ IDE.
+2. Select `Project -> Open Project...` and open the project directory.
+3. Right-click the main execution class and run the application.
 
 ---
-Poznámka: Ide o školský projekt z 1. ročníka na zoznámenie sa s OOP.
+Note: This is an academic project from first-year university studies focused on learning OOP fundamentals.
